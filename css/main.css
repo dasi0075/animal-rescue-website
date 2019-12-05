@@ -18,6 +18,13 @@ header {
   border-bottom-right-radius: 100px;
 }
 
+.header-available {
+  background-image: url("../images/dog-1.jpg");
+  background-size: cover;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
 .content-header {
   color: #fff;
 }
