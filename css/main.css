@@ -12,5 +12,13 @@ body {
 }
 
 header {
-  background-image: url(images/dog-9.jpg);
+  background-image: url("../images/dog-9.jpg");
+}
+
+.content-header {
+  color: #fff;
+}
+
+ul {
+color: #fff;
 }
