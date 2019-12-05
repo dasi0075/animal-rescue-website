@@ -25,6 +25,13 @@ header {
   border-bottom-right-radius: 100px;
 }
 
+.header-application {
+  background-image: url("../images/dog-6-square.jpg");
+  background-size: cover;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
 .content-header {
   color: #fff;
 }
@@ -60,7 +67,7 @@ nav li a {
   border-radius: 25px;
 }
 
-img {
+.img-border {
   border-radius: 50%;
   max-width: 50%;
 }
