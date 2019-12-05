@@ -13,12 +13,21 @@ body {
 
 header {
   background-image: url("../images/dog-9.jpg");
+  background-size: cover;
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius: 90px;
 }
 
 .content-header {
   color: #fff;
 }
 
-ul {
-color: #fff;
+nav li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+btn {
+  background-color: #c59a44;
+  color: #fff;
 }
