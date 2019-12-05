@@ -38,16 +38,19 @@ nav li a {
 .btn-stories {
   background-color: #dc3e36;
   border-color: #dc3e36;
+  border-radius: 25px;
 }
 
 .btn-available {
   background-color: #d76c33;
   border-color: #d76c33;
+  border-radius: 25px;
 }
 
 .btn-application {
   background-color: #edb506;
   border-color: #edb506;
+  border-radius: 25px;
 }
 
 img {
