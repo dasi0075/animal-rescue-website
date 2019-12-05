@@ -34,3 +34,23 @@ nav li a {
   border-color: #c59a44;
 
 }
+
+.btn-stories {
+  background-color: #dc3e36;
+  border-color: #dc3e36;
+}
+
+.btn-available {
+  background-color: #d76c33;
+  border-color: #d76c33;
+}
+
+.btn-application {
+  background-color: #edb506;
+  border-color: #edb506;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 50%;
+}
