@@ -14,8 +14,8 @@ body {
 header {
   background-image: url("../images/dog-9.jpg");
   background-size: cover;
-  border-bottom-left-radius: 90px;
-  border-bottom-right-radius: 90px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
 }
 
 .content-header {
@@ -27,7 +27,10 @@ nav li a {
   text-decoration: none;
 }
 
-btn {
+.btn {
   background-color: #c59a44;
   color: #fff;
+  border-radius: 30px;
+  border-color: #c59a44;
+
 }
