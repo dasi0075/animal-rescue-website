@@ -84,3 +84,27 @@ nav li a {
   filter: none;
   transform: scale(1.1);
 }
+
+input {
+  border-color: #edb506;
+  border-radius: 6px;
+}
+
+select {
+  border-color: #edb506;
+  border-radius: 6px;
+}
+
+textarea {
+  border-color: #edb506;
+  border-radius: 6px;
+}
+
+legend:label:checkbox {
+  border-color: #edb506;
+  border-radius: 6px;
+}
+
+hr {
+  border-color: #d76c33;
+}
