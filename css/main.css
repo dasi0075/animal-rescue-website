@@ -41,6 +41,10 @@ nav li a {
   text-decoration: none;
 }
 
+.dog-logo {
+  top: -530px;
+}
+
 .btn {
   background-color: #c59a44;
   color: #fff;
