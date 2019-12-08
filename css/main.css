@@ -58,6 +58,10 @@ nav li a {
   border-radius: 25px;
 }
 
+a:hover {
+  color: #000;
+}
+
 .btn-available {
   background-color: #d76c33;
   border-color: #d76c33;
