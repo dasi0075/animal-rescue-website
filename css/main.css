@@ -46,10 +46,10 @@ nav li a {
 }
 
 .btn {
-  background-color: ##8D431C;
+  background-color: #8D431C;
   color: #fff;
   border-radius: 30px;
-  border-color: ##8D431C;
+  border-color: #8D431C;
 }
 
 .btn-stories {
@@ -107,8 +107,4 @@ textarea {
 legend {
   border-color: #edb506;
   border-radius: 6px;
-}
-
-hr {
-  border-color: #d76c33;
 }
