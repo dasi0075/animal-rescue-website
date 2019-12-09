@@ -11,6 +11,10 @@ body {
   max-width: 20%;
 }
 
+img-flex {
+  display: block;
+}
+
 header {
   background-image: url("../images/dog-9.jpg");
   background-size: cover;
