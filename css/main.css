@@ -46,15 +46,15 @@ nav li a {
 }
 
 .btn {
-  background-color: #d76c33;
+  background-color: ##8D431C;
   color: #fff;
   border-radius: 30px;
-  border-color: #d76c33;
+  border-color: ##8D431C;
 }
 
 .btn-stories {
-  background-color: #dc3e36;
-  border-color: #dc3e36;
+  background-color: #A5241D;
+  border-color: #A5241D;
   border-radius: 25px;
 }
 
@@ -63,14 +63,14 @@ a:hover {
 }
 
 .btn-available {
-  background-color: #d76c33;
-  border-color: #d76c33;
+  background-color: #A5241D;
+  border-color: #A5241D;
   border-radius: 25px;
 }
 
 .btn-application {
-  background-color: #edb506;
-  border-color: #edb506;
+  background-color: #684F03;
+  border-color: #684F03;
   border-radius: 25px;
 }
 
