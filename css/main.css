@@ -14,6 +14,8 @@ body {
 
 header {
   background-image: url("../images/dog-9.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   border-bottom-left-radius: 100px;
   border-bottom-right-radius: 100px;
@@ -56,7 +58,7 @@ nav li a {
 }
 
 a:hover {
-  color: #000;
+  color: #a5241d;
 }
 
 .btn-available {
