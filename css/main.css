@@ -8,8 +8,8 @@ body {
 
 .dog-logo {
   width: 15%;
-  max-width: auto;
-  top: -10px;
+  top: -500px;
+  display: block;
 }
 
 header {
@@ -44,7 +44,7 @@ nav li a {
   text-decoration: none;
 }
 
-nav li a:hover {
+a:hover {
   color: #a5241d;
 }
 
